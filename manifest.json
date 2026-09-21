@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T15:00:00Z",
+  "generated": "2026-09-21T14:46:16Z",
   "apps": [
+    {
+      "package": "com.newmillennium.home",
+      "versionCode": 24,
+      "versionName": "2.0.4",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/home-v24/home.apk",
+      "sha256": "5b67ddf14ab20a474e0b82e056c724cf939b034d3d4b58e462ee9f096505f626",
+      "forceUpdate": false
+    },
     {
       "package": "io.gh.reisxd.tizentube.cobalt",
       "versionCode": 202,
