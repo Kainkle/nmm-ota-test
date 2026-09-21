@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "generated": "2026-09-21T15:00:00Z",
+  "apps": [
+    {
+      "package": "io.gh.reisxd.tizentube.cobalt",
+      "versionCode": 202,
+      "versionName": "2.0.2",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/tizentube-v202/tizentube.apk",
+      "sha256": "ff90c6e85c37246b809cca80282910509782c1384eccfbb6066da3b497dd9fd2",
+      "forceUpdate": false
+    },
+    {
+      "package": "com.newmillennium.movies",
+      "versionCode": 16,
+      "versionName": "2.0.1",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/movies-v16/movies.apk",
+      "sha256": "10937f79bcfa9a62c41ac98b90af98510421f93fa833278e6907e089da343a7b",
+      "forceUpdate": false
+    },
+    {
+      "package": "com.newmillennium.anime",
+      "versionCode": 14,
+      "versionName": "2.0.4",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/anime-v14/anime.apk",
+      "sha256": "7079096dcc1ecbb61b26c6052578ea9090928a0dc45a386eb87bd911c5cc3f76",
+      "forceUpdate": false
+    },
+    {
+      "package": "com.newmillennium.sports",
+      "versionCode": 10,
+      "versionName": "2.0.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/sports-v10/sports.apk",
+      "sha256": "f1fd2090058da8bc5eb93b516af4ca20526cf41d75cd4cde77fa5435cc38d3c8",
+      "forceUpdate": false
+    },
+    {
+      "package": "com.newmillennium.livetv",
+      "versionCode": 10,
+      "versionName": "2.0.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/livetv-v10/livetv.apk",
+      "sha256": "075866acfd97fcce302dc3c1b1864f0774abc8db5ccb07ac7dec09ad63478c96",
+      "forceUpdate": false
+    },
+    {
+      "package": "com.newmillennium.news",
+      "versionCode": 10,
+      "versionName": "2.0.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/news-v10/news.apk",
+      "sha256": "ea83c2af0fe65a9ee3037f6771de4302fa835fac17d9a85e5870b6612412849c",
+      "forceUpdate": false
+    }
+  ]
+}
