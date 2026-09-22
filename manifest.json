@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T11:52:03Z",
+  "generated": "2026-09-22T12:04:34Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
-      "versionCode": 31,
-      "versionName": "2.1.6",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/home-v31/home.apk",
-      "sha256": "53a79cb37f5f5f08c67d6e44f5d925629232add566f4890f93257dd9178b200d",
+      "versionCode": 32,
+      "versionName": "2.1.7",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/home-v32/home.apk",
+      "sha256": "2591f78c978a8342257a6a977f08a00049437e6b69eed1f5985c9120d6d8c05c",
       "forceUpdate": false
     },
     {
