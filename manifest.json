@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T03:33:54Z",
+  "generated": "2026-09-22T03:34:00Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -28,10 +28,10 @@
     },
     {
       "package": "com.newmillennium.anime",
-      "versionCode": 16,
-      "versionName": "2.1.1",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/anime-v16/anime.apk",
-      "sha256": "d1c2d1913dd552abe313a78f108544cb20eab833e3142e14c2c53ad3563f5688",
+      "versionCode": 17,
+      "versionName": "2.1.2",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/anime-v17/anime.apk",
+      "sha256": "029e65892789479f4a43e7b4f750ff30b050299e98f85815dafe0c49ccaab19a",
       "forceUpdate": false
     },
     {
