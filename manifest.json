@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-22T13:22:00Z",
+  "generated": "2026-09-24T20:02:09Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -20,10 +20,10 @@
     },
     {
       "package": "com.newmillennium.movies",
-      "versionCode": 19,
-      "versionName": "2.1.2",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/movies-v19/movies.apk",
-      "sha256": "9c5677d063745e32daf60a9050b049757e678426be3f2c891175a2b60c9bf1f7",
+      "versionCode": 21,
+      "versionName": "2.1.4",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/movies-v21/movies.apk",
+      "sha256": "e45be68b4a65472aa34cd43d2f7c9553c1248b1daa3cee84dc39613a390f2a4a",
       "forceUpdate": false
     },
     {
