@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T09:04:34Z",
+  "generated": "2026-10-01T09:04:42Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -36,10 +36,10 @@
     },
     {
       "package": "com.newmillennium.sports",
-      "versionCode": 12,
-      "versionName": "2.1.1",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/sports-v12/sports.apk",
-      "sha256": "fc529c17d0c25d54da9542c88545870142787d7e5fbab9e84818c012b475d04c",
+      "versionCode": 13,
+      "versionName": "2.1.2",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/sports-v13/sports.apk",
+      "sha256": "7f4b5c6cd438254b5cc6baf1ab8042dc2efbdc87fa6c422b565bb9fa34981d55",
       "forceUpdate": false
     },
     {
