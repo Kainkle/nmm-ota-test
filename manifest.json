@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T09:04:42Z",
+  "generated": "2026-10-01T09:04:50Z",
   "apps": [
     {
       "package": "com.newmillennium.home",
@@ -44,10 +44,10 @@
     },
     {
       "package": "com.newmillennium.livetv",
-      "versionCode": 11,
-      "versionName": "2.1.0",
-      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/livetv-v11/livetv.apk",
-      "sha256": "8018a85f35e44295d02c432d82a0ef51b37cb95dfd55a1d4631996b302c5e9f4",
+      "versionCode": 12,
+      "versionName": "2.2.0",
+      "apkUrl": "https://github.com/Kainkle/nmm-ota-test/releases/download/livetv-v12/livetv.apk",
+      "sha256": "d75ceea4852c46558fc0a08ff4f4639864c41204811a02c10a0cd076a57243a9",
       "forceUpdate": false
     },
     {
